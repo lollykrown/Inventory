@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+    <string name="empty_view_title_text">There\'s nothing here</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_product_desc">Description</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="hint_product_price">Price</string>
+    <string name="hint_product_supplier">Supplier</string>
+    <string name="hint_product_name">Name</string>
+    <string name="description">Description</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="action_search">Search</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All  Entries</string>
+    <string name="action_save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="deletion_failed">Deletion Failed</string>
+    <string name="delete_product_successful">Deleted Successfully</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="editor_activity_title_new_product">Add a Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="editor_update_product_successful">Product updated</string>
+    <string name="editor_update_product_failed">Error with updating product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+    <string name="supplier">Supplier</string>
+    <string name="excel_insert">Excel Insert</string>
+
+</resources>
